@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on My New Hugo Site</title>
+    <title>Home on Personal website</title>
     <link>https://hocnguyen.github.io/</link>
-    <description>Recent content in Home on My New Hugo Site</description>
+    <description>Recent content in Home on Personal website</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 22 Sep 2024 02:36:11 +0200</lastBuildDate>
@@ -14,13 +14,6 @@
       <pubDate>Sun, 22 Sep 2024 02:36:11 +0200</pubDate>
       <guid>https://hocnguyen.github.io/posts/first-post/</guid>
       <description>&lt;h2 id=&#34;my-first-post&#34;&gt;My first post&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://hocnguyen.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 03 Sep 2020 17:27:59 +0700</pubDate>
-      <guid>https://hocnguyen.github.io/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s an example blog post.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
